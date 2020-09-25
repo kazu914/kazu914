@@ -7,4 +7,4 @@
 
 
 # Weekly Activities
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazu914)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazu914)](https://wakatime.com/@kazu914)
