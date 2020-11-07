@@ -24,7 +24,7 @@
 - nand2tetris
   - Repositories for the book titled "The Elements of Computing Systems" a.k.a "nand2tetris"
   - [whole project](https://github.com/kazu914/nand2tetris) (still doing)
-  - [assembler](https://github.com/kazu914/nand2tetris-assembler) 
+  - [assembler](https://github.com/kazu914/nand2tetris_assembler) 
 
 # Activity Info  
 ## General Info  
