@@ -2,7 +2,6 @@
 
 - [dotfiles](https://github.com/kazu914/dotfiles)
     - My dotfiles with `zsh`,`nvim`,`tmux` and so on...
-    ![screenshot](https://github.com/kazu914/dotfiles/raw/figure/screen_shot1.png)
 
 - [dps](https://github.com/kazu914/dps)
     - Cli tool (build with `go`) for check all proccesses running in docker containers.
