@@ -9,7 +9,8 @@
 
 
 ## Languages  
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu914&theme=algolia) [![](https://raw.githubusercontent.com/kazu914/kazu914/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazu914/kazu914/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu914&theme=algolia)
+[![](https://raw.githubusercontent.com/kazu914/kazu914/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazu914/kazu914/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 # Weekly Activities
