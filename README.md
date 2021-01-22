@@ -1,4 +1,7 @@
 # Activity Info  
+
+[![k4zu articles](https://zenn-badge.herokuapp.com/s/k4zu/articles?style=flat)](https://zenn.dev/k4zu/articles) [![k4zu likes](https://zenn-badge.herokuapp.com/s/k4zu/likes?style=flat)](https://zenn.dev/k4zu/likes) [![k4zu followers](https://zenn-badge.herokuapp.com/s/k4zu/followers?style=flat)](https://zenn.dev/k4zu/followers)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kazu914&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kazu914/github-profile-trophy)
 ## General Info  
 ![stats](https://github-readme-stats.vercel.app/api?username=kazu914&count_private=true&show_icons=true&theme=algolia)  
