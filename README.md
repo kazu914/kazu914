@@ -1,3 +1,15 @@
+# Activity Info  
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazu914)](https://github.com/kazu914/github-profile-trophy)
+## General Info  
+![stats](https://github-readme-stats.vercel.app/api?username=kazu914&count_private=true&show_icons=true&theme=algolia)  
+
+## Languages  
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu914&theme=algolia)
+
+
+# Weekly Activities
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazu914)](https://wakatime.com/@kazu914)
+
 # My repositories
 
 - [dotfiles](https://github.com/kazu914/dotfiles)
@@ -25,13 +37,3 @@
   - [whole project](https://github.com/kazu914/nand2tetris) (still doing)
   - [assembler](https://github.com/kazu914/nand2tetris_assembler) 
 
-# Activity Info  
-## General Info  
-![stats](https://github-readme-stats.vercel.app/api?username=kazu914&count_private=true&show_icons=true&theme=algolia)  
-
-## Languages  
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazu914&theme=algolia)
-
-
-# Weekly Activities
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kazu914)](https://wakatime.com/@kazu914)
