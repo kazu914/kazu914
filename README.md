@@ -1,5 +1,5 @@
 # Activity Info  
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazu914)](https://github.com/kazu914/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazu914&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kazu914/github-profile-trophy)
 ## General Info  
 ![stats](https://github-readme-stats.vercel.app/api?username=kazu914&count_private=true&show_icons=true&theme=algolia)  
 
